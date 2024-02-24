@@ -24,6 +24,7 @@ public class Book {
     private String author;
     private double price;
     private String publisher;
+    private int pbn;
 
     public Long getId() {
         return id;
